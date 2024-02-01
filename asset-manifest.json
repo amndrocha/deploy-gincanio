@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Enigma-da-Gincana-de-Calouros/static/css/main.73c6c4fd.css",
-    "main.js": "/Enigma-da-Gincana-de-Calouros/static/js/main.26f7d301.js",
-    "index.html": "/Enigma-da-Gincana-de-Calouros/index.html",
-    "main.73c6c4fd.css.map": "/Enigma-da-Gincana-de-Calouros/static/css/main.73c6c4fd.css.map",
-    "main.26f7d301.js.map": "/Enigma-da-Gincana-de-Calouros/static/js/main.26f7d301.js.map"
+    "main.css": "/deploy-gincanio/static/css/main.73c6c4fd.css",
+    "main.js": "/deploy-gincanio/static/js/main.5a3b34bc.js",
+    "index.html": "/deploy-gincanio/index.html",
+    "main.73c6c4fd.css.map": "/deploy-gincanio/static/css/main.73c6c4fd.css.map",
+    "main.5a3b34bc.js.map": "/deploy-gincanio/static/js/main.5a3b34bc.js.map"
   },
   "entrypoints": [
     "static/css/main.73c6c4fd.css",
-    "static/js/main.26f7d301.js"
+    "static/js/main.5a3b34bc.js"
   ]
 }
