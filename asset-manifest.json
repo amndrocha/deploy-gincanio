@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/deploy-gincanio/static/css/main.c429242e.css",
-    "main.js": "/deploy-gincanio/static/js/main.1b29be4f.js",
-    "static/js/787.d99f3ef1.chunk.js": "/deploy-gincanio/static/js/787.d99f3ef1.chunk.js",
-    "index.html": "/deploy-gincanio/index.html",
-    "main.c429242e.css.map": "/deploy-gincanio/static/css/main.c429242e.css.map",
-    "main.1b29be4f.js.map": "/deploy-gincanio/static/js/main.1b29be4f.js.map",
-    "787.d99f3ef1.chunk.js.map": "/deploy-gincanio/static/js/787.d99f3ef1.chunk.js.map"
+    "main.css": "/Enigma-da-Gincana-de-Calouros/static/css/main.73c6c4fd.css",
+    "main.js": "/Enigma-da-Gincana-de-Calouros/static/js/main.26f7d301.js",
+    "index.html": "/Enigma-da-Gincana-de-Calouros/index.html",
+    "main.73c6c4fd.css.map": "/Enigma-da-Gincana-de-Calouros/static/css/main.73c6c4fd.css.map",
+    "main.26f7d301.js.map": "/Enigma-da-Gincana-de-Calouros/static/js/main.26f7d301.js.map"
   },
   "entrypoints": [
-    "static/css/main.c429242e.css",
-    "static/js/main.1b29be4f.js"
+    "static/css/main.73c6c4fd.css",
+    "static/js/main.26f7d301.js"
   ]
 }
