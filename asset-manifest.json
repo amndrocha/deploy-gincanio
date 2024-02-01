@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deploy-gincanio/static/css/main.73c6c4fd.css",
+    "main.css": "/deploy-gincanio/static/css/main.770706ef.css",
     "main.js": "/deploy-gincanio/static/js/main.5a3b34bc.js",
     "index.html": "/deploy-gincanio/index.html",
-    "main.73c6c4fd.css.map": "/deploy-gincanio/static/css/main.73c6c4fd.css.map",
+    "main.770706ef.css.map": "/deploy-gincanio/static/css/main.770706ef.css.map",
     "main.5a3b34bc.js.map": "/deploy-gincanio/static/js/main.5a3b34bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c6c4fd.css",
+    "static/css/main.770706ef.css",
     "static/js/main.5a3b34bc.js"
   ]
 }
